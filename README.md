@@ -86,8 +86,8 @@ poetry run pytest tests/
 
 ## Reference
 
-* Deezer Research - Source Separation Engine Story - deezer.io blog post:
-  * [English version](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e)
+* Deezer Research - Source Separation Engine Story - Deezer tech blog post:
+  * [English version](https://medium.com/deezer-engineering/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e)
   * [Japanese version](http://dzr.fm/splitterjp)
 * [Music Source Separation tool with pre-trained models / ISMIR2019 extended abstract](http://archives.ismir.net/ismir2019/latebreaking/000036.pdf)
 
